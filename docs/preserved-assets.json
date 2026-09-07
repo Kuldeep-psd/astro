@@ -1,0 +1,34 @@
+[
+  {
+    "file": "public/assets/city1.jpg",
+    "sha256": "c11c8123d87f8efaef323930249709ea71ab975b51fb47810d4c49d8d6c7de90"
+  },
+  {
+    "file": "public/assets/city2.jpg",
+    "sha256": "e1cd2107c5c85b9e5536869900559c25a258290e42c9e2f11bc1d64022255262"
+  },
+  {
+    "file": "public/assets/city3.jpg",
+    "sha256": "80dab020c93f2a9a80dbc73dcd648c9910d1e3a478a856e3d63dcfe422eaea33"
+  },
+  {
+    "file": "public/assets/india.jpg",
+    "sha256": "9604fee6b463a9d0cd0dd3087b4a09a44c2a3ac6a15586e4ac6857f69af3ae46"
+  },
+  {
+    "file": "public/assets/world.jpg",
+    "sha256": "d803b0aaaca11f93e7a30b4637e60077fd0115e244db5241bcf1b10711203862"
+  },
+  {
+    "file": "public/assets/world.png",
+    "sha256": "653235df0de6c03f424a1be7b83c8ff99e6c9d58efadd7d517141d6d93dd46f4"
+  },
+  {
+    "file": "public/assets/Graph.jpg",
+    "sha256": "9e0b479abcca7e6172f14a8144f3a41bc4cdea267cb551e9f56c787b29f2b70f"
+  },
+  {
+    "file": "docs/original-narrative.md",
+    "sha256": "f275035a99eccea6c871d479c33ad3da92c1c450841797b85126e637a46aba26"
+  }
+]
