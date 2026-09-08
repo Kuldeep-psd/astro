@@ -93,7 +93,7 @@
 <div class="chart-frame" class:fit>
   <svg viewBox={`0 ${verticalInset} ${cx * 2} ${cy * 2 - verticalInset * 2}`} preserveAspectRatio="xMidYMid meet" role="group" aria-labelledby={uid + '-title'} aria-describedby={uid + '-description'}>
     <title id={uid + '-title'}>{scene.name} hip-hop: radial release timeline</title>
-    <desc id={uid + '-description'}>Time runs counterclockwise from {formatDate(scene.start)} to {formatDate(scene.end)}. Each artist has a separate ring, ending at a documented activity endpoint when known. Later releases do not extend that ring. Coloured bands represent releases in chronological order, not durations. Nearby bands are spaced apart for easier selection; exact dates appear in the release details and list. Select an artist ring or name to filter their releases and show their profile. Tab to a ring and press Enter or Space to select it. Tab into a release, then use arrow keys to move between releases. The release list provides the same data in text.</desc>
+    <desc id={uid + '-description'}>Time runs counterclockwise from {formatDate(scene.start)} to {formatDate(scene.end)}. Each artist has a separate ring, ending at a documented activity endpoint when known. Later releases do not extend that ring. Coloured bands represent releases in chronological order, not durations. Nearby bands are spaced apart for easier selection; exact dates appear in the release details and list. Select an artist ring or name to filter their releases and show their profile. Tab to a ring and press Enter or Space to select it. Select the centre label to return to all artists and the scene overview. Tab into a release, then use arrow keys to move between releases. The release list provides the same data in text.</desc>
     <defs>
       <linearGradient id={uid + '-vinyl'} gradientUnits="userSpaceOnUse" x1={cx - outerRadius} y1={cy - outerRadius} x2={cx + outerRadius} y2={cy + outerRadius}>
         <stop offset="0" stop-color="#111b16" />
@@ -105,12 +105,18 @@
       </linearGradient>
     </defs>
 
-    <circle cx={cx} cy={cy} r={centerRadius} fill="#f3ff9c" stroke="#17271b" stroke-width="3" />
-    <g aria-hidden="true" pointer-events="none">
-      <circle cx={cx} cy={cy} r={centerRadius - 11} fill="none" stroke="#627437" stroke-opacity=".38" stroke-width="1" />
-      <circle cx={cx} cy={cy} r="16" fill="#42d6bb" stroke="#17271b" stroke-width="1.5" />
-      <circle cx={cx} cy={cy} r="9" fill="#18261c" />
-      <circle cx={cx - 1.5} cy={cy - 1.5} r="3.5" fill="#fbfff0" />
+    <g class="scene-home" data-scene-home={scene.id} role="button" tabindex="0"
+      aria-label={`Show all ${scene.name} artists and scene overview`}
+      onclick={() => onartistselect('')} onkeydown={event => activateArtist(event, '')}>
+      <circle class="center-label" cx={cx} cy={cy} r={centerRadius} fill="#f3ff9c" stroke="#17271b" stroke-width="3" />
+      <g aria-hidden="true" pointer-events="none">
+        <circle cx={cx} cy={cy} r={centerRadius - 11} fill="none" stroke="#627437" stroke-opacity=".38" stroke-width="1" />
+        <circle cx={cx} cy={cy} r="16" fill="#42d6bb" stroke="#17271b" stroke-width="1.5" />
+        <circle cx={cx} cy={cy} r="9" fill="#18261c" />
+        <circle cx={cx - 1.5} cy={cy - 1.5} r="3.5" fill="#fbfff0" />
+        <text x={cx} y={cy - 34} text-anchor="middle" class="center-name">{scene.name.toUpperCase()}</text>
+        <text x={cx} y={cy + 78} text-anchor="middle" class="center-name">HIPHOP</text>
+      </g>
     </g>
     <path d={annularSector(cx, cy, calendarInner, calendarOuter, scale.startAngle, finalAngle)} fill={scene.color} />
     {#each calendarTicks as tick}
@@ -167,8 +173,6 @@
       </g>
     {/each}
 
-    <text x={cx} y={cy - 34} text-anchor="middle" class="center-name">{scene.name.toUpperCase()}</text>
-    <text x={cx} y={cy + 78} text-anchor="middle" class="center-name">HIPHOP</text>
     <text x={cx + outerRadius + 26} y={cy + 5} text-anchor="middle" class="end-label">{scene.end.endsWith('-01-01') ? scene.end.slice(0, 4) : formatDate(scene.end)}</text>
   </svg>
 </div>
@@ -178,6 +182,10 @@
   .chart-frame.fit { height: 100%; min-height: 0; }
   .fit svg { height: 100%; }
   svg { width: 100%; height: auto; display: block; overflow: visible; }
+  .scene-home { cursor: pointer; outline: none; }
+  .center-label { transition: fill 160ms ease; }
+  .scene-home:hover .center-label { fill: #edff7e; }
+  .scene-home:focus-visible .center-label { stroke: #f15bff; stroke-width: 3; }
   .center-name { font-family: 'Barlow Condensed', Impact, sans-serif; font-size: 59px; font-weight: 800; letter-spacing: -1.8px; fill: #19251a; }
   .artist-track { cursor: pointer; outline: none; transition: opacity 180ms ease; }
   .artist-track:hover, .artist-track:focus-visible { opacity: 1; }
@@ -195,6 +203,6 @@
   .project:focus-visible .focus-outline, .project.chosen .focus-outline { opacity: 1; }
   .project:focus-visible .focus-outline { stroke: #f15bff; stroke-width: 2; }
   @media (prefers-reduced-motion: reduce) {
-    .artist-track, .artist-lane, .band, .focus-outline { transition: none; }
+    .scene-home .center-label, .artist-track, .artist-lane, .band, .focus-outline { transition: none; }
   }
 </style>

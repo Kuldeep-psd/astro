@@ -27,7 +27,7 @@ The static output is in `dist/`. Stop the dev server before running `npm run pre
 
 - `src/lib/data/story.ts` — four concise, source-linked historical chapters and their references.
 - `src/lib/data/{bombay,punjabi,delhi,urdu,pune,goa,amd,koshur}.ts` — eight reconstructed, source-linked scene datasets.
-- `src/lib/components/RadialDisc.svelte` — reusable SVG radial timeline; black artist rings and names activate artist filters, while coloured project bands open release details. Geometry is generated from sourced data.
+- `src/lib/components/RadialDisc.svelte` — reusable SVG radial timeline; black artist rings and names activate artist filters, while coloured project bands open release details. The centre label returns to All artists and the scene overview. Geometry is generated from sourced data.
 - `src/lib/components/DiscStudy.svelte` — turntable section, filters, release list, and source details.
 - `src/lib/components/ArtistProfileCard.svelte` — compact artist portrait, one-sentence bio, and a direct music-profile link, opened from artist filters or the artist name in project details.
 - `src/lib/data/artist-profiles.ts` — all 29 sourced artist profiles; portrait and bio provenance is kept in `docs/artist-profiles-*.json`.

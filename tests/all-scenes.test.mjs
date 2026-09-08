@@ -50,6 +50,40 @@ test('each disc renders every sourced band and artist filters retain only the ma
   }
 });
 
+test('every disc center remains an independent, keyboard-accessible scene home control', () => {
+  for (const scene of scenes) {
+    const project = scene.projects[0];
+    for (const state of [{}, { artistId: project.artistId, selectedId: project.id }, { artistId: project.artistId, types: [] }]) {
+      const html = draw(scene, state);
+      const stack = [];
+      const homeControls = [];
+      for (const match of html.matchAll(/<\/?g\b[^>]*>/g)) {
+        if (match[0].startsWith('</')) {
+          const group = stack.pop();
+          if (group?.tag.includes('data-scene-home=')) {
+            homeControls.push({ ...group, body: html.slice(group.contentStart, match.index) });
+          }
+        } else {
+          stack.push({ tag: match[0], contentStart: match.index + match[0].length, parents: stack.map(group => group.tag) });
+        }
+      }
+      assert.equal(homeControls.length, 1, scene.id);
+      const home = homeControls[0];
+      assert.ok(home.tag.includes(`data-scene-home="${scene.id}"`));
+      assert.match(home.tag, /role="button"/);
+      assert.match(home.tag, /tabindex="0"/);
+      assert.ok(home.tag.includes(`aria-label="Show all ${scene.name} artists and scene overview"`));
+      assert.doesNotMatch(home.parents.join(''), /data-artist-id=|data-release-id=/);
+      assert.doesNotMatch(home.body, /data-artist-id=|data-release-id=/);
+      const surface = home.body.match(/<circle\b[^>]*class="center-label[^>]*>/)?.[0];
+      assert.ok(surface, `${scene.id}: full center surface belongs to the button`);
+      assert.match(surface, /r="146"/);
+      const labels = [...home.body.matchAll(/<text\b[^>]*class="center-name[^>]*>([^<]+)<\/text>/g)].map(match => match[1]);
+      assert.deepEqual(labels, [scene.name.toUpperCase(), 'HIPHOP']);
+    }
+  }
+});
+
 test('longer original calendars get legible major years and preserve the shared cutoff', () => {
   const years = html => [...html.matchAll(/<text[^>]*class="year[^>]*>([^<]+)<\/text>/g)].map(match => match[1]);
   assert.deepEqual(years(draw(scenes.find(scene => scene.id === 'punjabi'))), ['2004', '2011', '2018', '2025']);
