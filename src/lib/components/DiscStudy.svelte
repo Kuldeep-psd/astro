@@ -175,7 +175,7 @@
   dd { display: flex; align-items: center; gap: 6px; margin: 0; font-size: 11px; font-weight: 500; }
   i { display: inline-block; width: 7px; height: 11px; flex-shrink: 0; border-radius: 1px; }
   .study-toolbar { display: flex; align-items: center; flex-wrap: wrap; gap: 18px; padding: 12px 28px; border-top: 1px solid var(--deck-line); background: #f3f5ec; }
-  .artist-filters { display: flex; flex-wrap: wrap; gap: 8px; padding: 14px 20px 6px; }
+  .artist-filters { display: flex; flex-wrap: wrap; gap: 8px; padding: 10px 20px 4px; }
   .artist-filters button { min-height: 44px; padding: 10px 15px; border: 1px solid #cbd5c2; border-radius: 2px; background: #fffef8; color: var(--deck-ink); font-size: 12px; font-weight: 600; line-height: 1.25; transition: background 160ms, border-color 160ms, box-shadow 160ms, transform 160ms; }
   .artist-filters button:hover { border-color: #648d70; background: #e7f1df; transform: translateY(-1px); }
   .artist-filters button[aria-pressed='true'] { border-color: #142018; background: #142018; color: #e9ff55; box-shadow: inset 0 -3px 0 #42d6bb; }
@@ -246,7 +246,7 @@
     .study-workspace { padding: 16px 9px; gap: 22px; }
     .release-panel { margin: 0 7px; padding: 18px; }
     .study-toolbar { gap: 12px; padding: 12px 16px; }
-    .artist-filters { gap: 7px; padding: 12px 8px 7px; }
+    .artist-filters { gap: 7px; padding: 10px 8px 4px; }
     .artist-filters button { flex: 1 0 auto; padding-inline: 12px; font-size: 11px; }
     .kind-filters { gap: 5px; flex: 1; }
     .kind-filters button { min-height: 44px; padding-inline: 9px; }

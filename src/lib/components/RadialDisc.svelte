@@ -12,8 +12,9 @@
   const centerRadius = 146, calendarInner = 151, calendarOuter = 181;
   const cx = $derived(Math.max(320, 260 + scene.artists.length * 30));
   const cy = $derived(cx);
-  // Trim blank vertical margins while preserving the disc scale and label clearance.
-  const verticalInset = 32;
+  // Trim blank vertical margins; 64 keeps every scene’s artist labels clear
+  // while preserving disc scale in the tighter shared stage.
+  const verticalInset = 64;
   const laneInner = 185, laneWidth = 27, lanePitch = 30;
   const artistLabelFontSize = 17;
   const checkedScene = $derived(validateScene(scene));

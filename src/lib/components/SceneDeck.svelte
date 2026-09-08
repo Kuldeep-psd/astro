@@ -62,7 +62,7 @@
 </div>
 
 <style>
-  .scene-deck { min-width: 0; --scene-view-height: 520px; --scene-view-gap: 20px; --record-shift: 24px; }
+  .scene-deck { min-width: 0; --scene-view-height: 480px; --scene-view-gap: 10px; --record-shift: 24px; }
   .scene-title { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 2px 20px 0; }
   .scene-name { display: flex; align-items: center; gap: 12px; }
   .scene-number { width: 30px; height: 30px; display: grid; place-items: center; border: 1px solid #26372b; background: #e9ff55; font-family: var(--font-display); font-size: 15px; font-weight: 400; }
@@ -90,7 +90,7 @@
     to { transform: translateX(0) rotate(0); }
   }
   @media (max-width: 600px) {
-    .scene-deck { --scene-view-height: 360px; --scene-view-gap: 12px; --record-shift: 14px; }
+    .scene-deck { --scene-view-height: 340px; --scene-view-gap: 6px; --record-shift: 14px; }
     .scene-title { padding: 0 8px 8px; }
     .scene-name { gap: 8px; }
     .scene-context { gap: 7px; padding-inline: 8px; }
