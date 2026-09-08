@@ -1,0 +1,16 @@
+[
+  {
+    "family": "Anton",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/anton/Anton-Regular.ttf",
+    "sourceSha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab",
+    "file": "src/lib/assets/fonts/Anton-Regular.woff2",
+    "bytes": 57532
+  },
+  {
+    "family": "Permanent Marker",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/apache/permanentmarker/PermanentMarker-Regular.ttf",
+    "sourceSha256": "28f82c8a7943cb8e9d599f8554da1d4fc75dbcf69b9885ad6c0611d20c6946c5",
+    "file": "src/lib/assets/fonts/PermanentMarker-Regular.woff2",
+    "bytes": 30820
+  }
+]

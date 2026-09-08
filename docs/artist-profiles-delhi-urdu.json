@@ -1,0 +1,204 @@
+[
+  {
+    "artistId": "krsna",
+    "artistName": "KR$NA",
+    "profileUrl": "https://music.apple.com/us/artist/kr%24na/1462405977",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/e5/10/7d/e5107d73-23c3-6eb6-65da-3e3f020ce2db/ami-identity-4390c00d7f19c7dfa32d1e6c7ff2af15-2025-05-25T08-10-15.463Z_cropped.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/kr%24na/1462405977",
+    "bioSources": [
+      {
+        "label": "KR$NA — Apple Music artist biography and catalog",
+        "url": "https://music.apple.com/us/artist/kr%24na/1462405977"
+      }
+    ],
+    "localPath": "public/assets/artists/krsna.jpg",
+    "sha256": "c8c50e94f44501fa338e3f10116ed3177ef51293dda3450b83f91fe8ace7bae6",
+    "bytes": 36732,
+    "retrievedAt": "2026-09-08",
+    "imageKind": "Artist profile photograph",
+    "processing": "JPEG normalized; resized inside 560 × 560 pixels with original aspect ratio; no crop."
+  },
+  {
+    "artistId": "raftaar",
+    "artistName": "Raftaar",
+    "profileUrl": "https://music.apple.com/us/artist/raftaar/574786227",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/0c/fd/80/0cfd80bf-75a0-0432-40cf-44376f69385f/c26a3f72-948e-47a0-9653-a1bcc58d4101_file_cropped.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/raftaar/574786227",
+    "bioSources": [
+      {
+        "label": "Raftaar — Apple Music artist biography and catalog",
+        "url": "https://music.apple.com/us/artist/raftaar/574786227"
+      }
+    ],
+    "localPath": "public/assets/artists/raftaar.jpg",
+    "sha256": "f909acc4eb65e4561f57642568c86067c3e7f141b2211fc685c3ad3af09c13ed",
+    "bytes": 54680,
+    "retrievedAt": "2026-09-08",
+    "imageKind": "Artist profile photograph",
+    "processing": "JPEG normalized; resized inside 560 × 560 pixels with original aspect ratio; no crop."
+  },
+  {
+    "artistId": "ikka",
+    "artistName": "Ikka",
+    "profileUrl": "https://music.apple.com/us/artist/ikka/545256421",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/37/82/0e/37820ec8-ca9c-6560-637d-0f6bbde9dd72/pr_source.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/ikka/545256421",
+    "bioSources": [
+      {
+        "label": "Ikka Essentials — Apple Music editorial",
+        "url": "https://music.apple.com/us/playlist/ikka-essentials/pl.e51696cd4a0a43288578ec21d59c518e"
+      }
+    ],
+    "localPath": "public/assets/artists/ikka.jpg",
+    "sha256": "5d53e61fc99382e1f35e0a14d5df83514428fcb541737f685c82b2ceeadd704a",
+    "bytes": 34432,
+    "retrievedAt": "2026-09-08",
+    "imageKind": "Artist profile photograph",
+    "processing": "JPEG normalized; resized inside 560 × 560 pixels with original aspect ratio; no crop."
+  },
+  {
+    "artistId": "karma",
+    "artistName": "Karma",
+    "profileUrl": "https://music.apple.com/us/artist/karma/1454799960",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/ff/b1/79/ffb1797b-6842-361a-2c63-69f70a2db2da/mza_8329639209371209463.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/karma/1454799960",
+    "bioSources": [
+      {
+        "label": "Karma Essentials — Apple Music editorial",
+        "url": "https://music.apple.com/us/playlist/karma-essentials/pl.f91709d3a99e4bc49ebbad16f0aef945"
+      }
+    ],
+    "localPath": "public/assets/artists/karma.jpg",
+    "sha256": "1b5413937b6811e2cc79ca4fe84e234bc9a4ce417ff49888c1c36c507d1ba2f2",
+    "bytes": 44522,
+    "retrievedAt": "2026-09-08",
+    "imageKind": "Artist profile photograph",
+    "processing": "JPEG normalized; resized inside 560 × 560 pixels with original aspect ratio; no crop."
+  },
+  {
+    "artistId": "seedhe-maut",
+    "artistName": "Seedhe Maut",
+    "profileUrl": "https://music.apple.com/us/artist/seedhe-maut/1233336608",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/cc/75/34/cc7534cf-7255-9711-0802-4df34b5e40b9/ami-identity-66cca7367521f1c71cddd520ba9f1380-2025-05-15T06-20-43.093Z_cropped.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/seedhe-maut/1233336608",
+    "bioSources": [
+      {
+        "label": "Seedhe Maut — Apple Music artist biography and catalog",
+        "url": "https://music.apple.com/us/artist/seedhe-maut/1233336608"
+      }
+    ],
+    "localPath": "public/assets/artists/seedhe-maut.jpg",
+    "sha256": "bb08561bf60f9d298b48c33a6d5fae045beab8a25af3fead7c1ed31aa20bc365",
+    "bytes": 35728,
+    "retrievedAt": "2026-09-08",
+    "imageKind": "Artist profile photograph",
+    "processing": "JPEG normalized; resized inside 560 × 560 pixels with original aspect ratio; no crop."
+  },
+  {
+    "artistId": "chaar-diwaari",
+    "artistName": "Chaar Diwaari",
+    "profileUrl": "https://music.apple.com/us/artist/chaar-diwaari/1595489611",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/dd/60/e2/dd60e275-3108-fe70-4200-4549ca209ff8/180c0bf0-ff7e-45ca-87dd-68be2f74b274_ami-identity-31917423245698e8947ffaea3135f223-2023-02-11T14-32-22.073Z_cropped.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/chaar-diwaari/1595489611",
+    "bioSources": [
+      {
+        "label": "Chaar Diwaari — Apple Music artist biography and catalog",
+        "url": "https://music.apple.com/us/artist/chaar-diwaari/1595489611"
+      }
+    ],
+    "localPath": "public/assets/artists/chaar-diwaari.jpg",
+    "sha256": "aec710c449604bd3ad6ff6109c2faf75768df17aa05ebdb1006c02fdb0e4f11c",
+    "bytes": 37514,
+    "retrievedAt": "2026-09-08",
+    "imageKind": "Artist profile photograph",
+    "processing": "JPEG normalized; resized inside 560 × 560 pixels with original aspect ratio; no crop."
+  },
+  {
+    "artistId": "faris-shafi",
+    "artistName": "Faris Shafi",
+    "profileUrl": "https://music.apple.com/us/artist/faris-shafi/1498161826",
+    "imageSourceUrl": "https://i.scdn.co/image/ab6761610000e5eb64bd51c9a55149c285a264e7",
+    "imagePageUrl": "https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD",
+    "bioSources": [
+      {
+        "label": "British Council — SoundScape 2025 programme, Faris Shafi profile (page 30)",
+        "url": "https://www.britishcouncil.pk/sites/default/files/soundscape_2025_programme_guide.pdf"
+      }
+    ],
+    "localPath": "public/assets/artists/faris-shafi.jpg",
+    "sha256": "0737f81b75fddee5466b32c212a8d00a80e4660a716ac17b3cdb5c463bd59bd9",
+    "bytes": 48870,
+    "retrievedAt": "2026-09-08",
+    "imageKind": "Artist profile photograph",
+    "processing": "JPEG normalized; resized inside 560 × 560 pixels with original aspect ratio; no crop."
+  },
+  {
+    "artistId": "talha-anjum",
+    "artistName": "Talha Anjum",
+    "profileUrl": "https://music.apple.com/us/artist/talha-anjum/1478621505",
+    "imageSourceUrl": "https://i.scdn.co/image/ab6761610000e5eb462dd73a8c8c29c4092ae669",
+    "imagePageUrl": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci",
+    "bioSources": [
+      {
+        "label": "Talha Anjum — Apple Music artist biography and catalog",
+        "url": "https://music.apple.com/us/artist/talha-anjum/1478621505"
+      }
+    ],
+    "localPath": "public/assets/artists/talha-anjum.jpg",
+    "sha256": "dcfa3ee3256c85f84f2abb2494be37fd334e43ffba5f8ac87d55e1c6973a667f",
+    "bytes": 58772,
+    "retrievedAt": "2026-09-08",
+    "imageKind": "Artist profile photograph",
+    "processing": "JPEG normalized; resized inside 560 × 560 pixels with original aspect ratio; no crop."
+  },
+  {
+    "artistId": "sunny-khan-durrani",
+    "artistName": "Sunny Khan Durrani",
+    "profileUrl": "https://music.apple.com/us/artist/sunny-khan-durrani/1005656825",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/26/df/d9/26dfd9b8-ffd9-0c5f-f5d9-85a81ed54f22/pr_source.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/sunny-khan-durrani/1005656825",
+    "bioSources": [
+      {
+        "label": "Sunny Khan Durrani — official artist channel biography",
+        "url": "https://www.youtube.com/@sunnykhandurrani/about"
+      },
+      {
+        "label": "Sunny Khan Durrani — artist biography on Spotify",
+        "url": "https://open.spotify.com/artist/3quv60l1R7kydik94rdl7j"
+      }
+    ],
+    "localPath": "public/assets/artists/sunny-khan-durrani.jpg",
+    "sha256": "191e4d55e2ad3b30f3364fd82d69ed0647a137306e050740abb6526e11f81e8d",
+    "bytes": 27038,
+    "retrievedAt": "2026-09-08",
+    "imageKind": "Artist profile photograph",
+    "processing": "JPEG normalized; resized inside 560 × 560 pixels with original aspect ratio; no crop."
+  },
+  {
+    "artistId": "jani",
+    "artistName": "JANI",
+    "profileUrl": "https://music.apple.com/us/artist/jani/1571527633",
+    "imageSourceUrl": "https://i.scdn.co/image/ab6761610000e5eb92f98f096f891080a4cf287a",
+    "imagePageUrl": "https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc",
+    "bioSources": [
+      {
+        "label": "JANI — artist biography on Spotify",
+        "url": "https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc"
+      },
+      {
+        "label": "Red Bull — interview with JANI",
+        "url": "https://www.redbull.com/pk-en/boljani-the-jani-of-karachi-raps-red-bull-off-the-roof-off-the-charts"
+      },
+      {
+        "label": "JANI — Apple Music catalog",
+        "url": "https://music.apple.com/us/artist/jani/1571527633"
+      }
+    ],
+    "localPath": "public/assets/artists/jani.jpg",
+    "sha256": "3fbdb5807fc29d200263395ffddc793754f821a580d5c524563b874ddf1ad0cc",
+    "bytes": 34902,
+    "retrievedAt": "2026-09-08",
+    "imageKind": "Artist profile photograph",
+    "processing": "JPEG normalized; resized inside 560 × 560 pixels with original aspect ratio; no crop."
+  }
+]

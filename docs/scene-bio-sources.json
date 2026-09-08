@@ -1,0 +1,118 @@
+[
+  {
+    "sceneId": "bombay",
+    "bioSources": [
+      {
+        "label": "DIVINE interview — GQ India",
+        "url": "https://www.gqindia.com/content/mumbai-rapper-divine-gq-interview-gully-boy-inspired-by-the-real-life-story-of-divine-vivian-fernandes"
+      },
+      {
+        "label": "Beyond DIVINE and Naezy: Mumbai’s hip-hop scene — Scroll",
+        "url": "https://scroll.in/magazine/912379/beyond-divine-and-naezy-meet-the-real-gully-boys-who-helped-shape-mumbais-hip-hop-scene"
+      }
+    ]
+  },
+  {
+    "sceneId": "punjabi",
+    "bioSources": [
+      {
+        "label": "Bohemia and the Punjabi diaspora — The National",
+        "url": "https://www.thenationalnews.com/arts-culture/music/straight-outta-karachi-urdu-duo-young-stunners-are-back-to-revitalise-pakistans-rap-scene-1.618966"
+      },
+      {
+        "label": "Karan Aujla interview, 27 December 2024 — Indulge",
+        "url": "https://www.indulgexpress.com/culture/music/2024/Dec/27/exclusive-people-said-i-wouldnt-make-it-karan-aujla-tells-indulge-as-he-keeps-rocking-his-fans-with-it-was-all-a-dream-tour"
+      }
+    ]
+  },
+  {
+    "sceneId": "delhi",
+    "bioSources": [
+      {
+        "label": "Seedhe Maut interview on Spit Dope, Hindi rap and Delhi audiences — GQ India",
+        "url": "https://www.gqindia.com/magazine-story/gq-exclusive-one-on-one-with-the-firebrand-duo-from-seedhe-maut-encore-abj-calm/"
+      },
+      {
+        "label": "Delhi battle rap and cyphers, 7 December 2024 — The New Indian Express",
+        "url": "https://www.newindianexpress.com/cities/delhi/2024/Dec/07/in-the-hood"
+      }
+    ]
+  },
+  {
+    "sceneId": "urdu",
+    "bioSources": [
+      {
+        "label": "Young Stunners interview on Karachi and Urdu rap — The National",
+        "url": "https://www.thenationalnews.com/arts-culture/music/straight-outta-karachi-urdu-duo-young-stunners-are-back-to-revitalise-pakistans-rap-scene-1.618966"
+      },
+      {
+        "label": "Lahore-based Faris Shafi interview — The Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/faris-shafi-the-uncensored-voice-from-pakistan/articleshow/46974206.cms"
+      },
+      {
+        "label": "A new generation of Pakistani musicians — Aurora",
+        "url": "https://aurora.dawn.com/news/1144370"
+      }
+    ]
+  },
+  {
+    "sceneId": "pune",
+    "bioSources": [
+      {
+        "label": "MC Stan artist editorial — Apple Music",
+        "url": "https://music.apple.com/us/artist/mc-stan/1530205305"
+      },
+      {
+        "label": "Insaan editorial — Apple Music",
+        "url": "https://music.apple.com/us/album/insaan/1610309563"
+      }
+    ]
+  },
+  {
+    "sceneId": "goa",
+    "bioSources": [
+      {
+        "label": "Tsumyoki on building Goa’s rap culture, 2019 — The Goan",
+        "url": "https://www.thegoan.net/rap-culture-needs-to-develop-in-goa-tsumyoki/54757.html"
+      },
+      {
+        "label": "A Message from the Moon: Tsumyoki interview and editorial — Apple Music",
+        "url": "https://music.apple.com/us/album/a-message-from-the-moon/1687776625"
+      }
+    ]
+  },
+  {
+    "sceneId": "amd",
+    "bioSources": [
+      {
+        "label": "Dhanji on Ahmedabad and Ruab, 2024 — Rolling Stone India",
+        "url": "https://rollingstoneindia.com/future-of-music-2024/dhanji-future-of-music-2024/"
+      },
+      {
+        "label": "Dhanji, Siyaahi, Acharya and Ruab live, 2023 — Rolling Stone India",
+        "url": "https://rollingstoneindia.com/dhanji-ruab-live-album-interview-zomaland-ahmedabad/"
+      },
+      {
+        "label": "Dhanji, Zorba and Siyaahi on a shared Ahmedabad studio session, 2021 — Rolling Stone India",
+        "url": "https://rollingstoneindia.com/premiere-dhanji-zorba-siyaahi-camjones-mr-lucky-2000-2000-video/"
+      }
+    ]
+  },
+  {
+    "sceneId": "koshur",
+    "bioSources": [
+      {
+        "label": "Kashmir’s hip-hop scene and Koshur language — Scroll",
+        "url": "https://scroll.in/article/1011934/how-kashmirs-emerging-hip-hop-scene-could-enable-the-revival-of-the-fading-local-language-of-koshur"
+      },
+      {
+        "label": "Ahmer on language, identity and MC Kash, 2019 — The Indian Express",
+        "url": "https://indianexpress.com/article/lifestyle/art-and-culture/voice-from-the-valley-ahmer-javed-dar-kashmiri-rapper-5822909/"
+      },
+      {
+        "label": "AZLI artist and label notes — Ahmer’s official Bandcamp",
+        "url": "https://ahmermusic.bandcamp.com/album/azli"
+      }
+    ]
+  }
+]

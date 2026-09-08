@@ -1,0 +1,1 @@
+Anton and Permanent Marker are distributed under their accompanying licenses. Original TrueType font files from google/fonts were converted to WOFF2 for this website; font outlines and names are unchanged. Source URLs and hashes are recorded in docs/display-fonts.json.

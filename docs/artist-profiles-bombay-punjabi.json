@@ -1,0 +1,228 @@
+[
+  {
+    "artistId": "divine",
+    "artistName": "DIVINE",
+    "profileUrl": "https://music.apple.com/us/artist/divine/1086309021",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages112/v4/ad/43/fc/ad43fc71-bd44-d849-6d02-1281667bbb44/7188b61e-d01c-46be-a172-ba5d75c66394_ami-identity-b58ca4120f356c980d89c4997ab7b71a-2024-02-19T07-20-54.320Z_cropped.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/divine/1086309021",
+    "bioSources": [
+      {
+        "label": "DIVINE — Apple Music artist profile",
+        "url": "https://music.apple.com/us/artist/divine/1086309021"
+      }
+    ],
+    "localPath": "public/assets/artists/divine.jpg",
+    "sha256": "5c15e6f01ceb5bb25e846f38ebc48e7d37d9aae8d12655c141e4af6c69ac1f9e",
+    "bytes": 22667,
+    "credit": "Artist profile photograph supplied on Apple Music; photographer not named on profile.",
+    "retrievedAt": "2026-09-08",
+    "processing": "JPEG normalized at 600 × 600 maximum, aspect ratio preserved; no generated or substituted imagery."
+  },
+  {
+    "artistId": "emiway",
+    "artistName": "Emiway Bantai",
+    "profileUrl": "https://music.apple.com/us/artist/emiway-bantai/1450594347",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/d1/95/ad/d195ad7e-032e-a962-b3be-3283e2a48e1f/5fb5d84f-abc1-4f24-bd26-fca8f743aae4_file_cropped.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/emiway-bantai/1450594347",
+    "bioSources": [
+      {
+        "label": "Emiway Bantai — Apple Music artist profile",
+        "url": "https://music.apple.com/us/artist/emiway-bantai/1450594347"
+      }
+    ],
+    "localPath": "public/assets/artists/emiway.jpg",
+    "sha256": "0431c6e0bc72d90ea1a8509da10df0dffc76f39a234399878ce93872afb9f7f7",
+    "bytes": 62468,
+    "credit": "Artist profile photograph supplied on Apple Music; photographer not named on profile.",
+    "retrievedAt": "2026-09-08",
+    "processing": "JPEG normalized at 600 × 600 maximum, aspect ratio preserved; no generated or substituted imagery."
+  },
+  {
+    "artistId": "naezy",
+    "artistName": "Naezy",
+    "profileUrl": "https://music.apple.com/us/artist/naezy/966154388",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/c1/bb/5f/c1bb5fff-e6fb-5551-dcba-6abbbe646af3/pr_source.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/naezy/966154388",
+    "bioSources": [
+      {
+        "label": "Naezy — Apple Music artist profile",
+        "url": "https://music.apple.com/us/artist/naezy/966154388"
+      },
+      {
+        "label": "Naezy interview — The National",
+        "url": "https://www.thenationalnews.com/arts-culture/what-happened-when-mumbai-s-rappers-dropped-the-american-accent-1.30230"
+      }
+    ],
+    "localPath": "public/assets/artists/naezy.jpg",
+    "sha256": "dcc51a22394a97c39289eadb8e230aa6cc4bbebed95b2f4720922293748c72c4",
+    "bytes": 48109,
+    "credit": "Artist profile photograph supplied on Apple Music; photographer not named on profile.",
+    "retrievedAt": "2026-09-08",
+    "processing": "JPEG normalized at 600 × 600 maximum, aspect ratio preserved; no generated or substituted imagery."
+  },
+  {
+    "artistId": "siege",
+    "artistName": "The Siege",
+    "profileUrl": "https://music.apple.com/us/artist/the-siege/1476131739",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/66/ef/6f/66ef6ff1-9d4e-fbb8-1bc6-ea5ba2024567/7154f5d4-100c-4b01-91f9-71f45e5eaee5_ami-identity-e8565e8213e58f9787d4b90b52b0b000-2024-10-02T08-14-07.346Z_cropped.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/the-siege/1476131739",
+    "bioSources": [
+      {
+        "label": "The Siege — Apple Music artist profile",
+        "url": "https://music.apple.com/us/artist/the-siege/1476131739"
+      },
+      {
+        "label": "The Siege interview — Platform",
+        "url": "https://www.platform-mag.com/music/the-siege.html"
+      }
+    ],
+    "localPath": "public/assets/artists/siege.jpg",
+    "sha256": "601bb5a188159f61958ee8061dc70c30ce9f3ae667e4f24537a9e3f16bdcf0bb",
+    "bytes": 38770,
+    "credit": "Artist profile photograph supplied on Apple Music; photographer not named on profile.",
+    "retrievedAt": "2026-09-08",
+    "processing": "JPEG normalized at 600 × 600 maximum, aspect ratio preserved; no generated or substituted imagery."
+  },
+  {
+    "artistId": "mc-altaf",
+    "artistName": "MC Altaf",
+    "profileUrl": "https://music.apple.com/us/artist/mc-altaf/1398832173",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/ff/96/3c/ff963c05-f659-c5b8-2bcb-e425e3265376/158c0e36-a01c-43e0-ba47-15ed1ddec08a_ami-identity-521850f3693a809241a1928e6f586688-2023-03-22T07-12-02.435Z_cropped.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/mc-altaf/1398832173",
+    "bioSources": [
+      {
+        "label": "MC Altaf — Apple Music artist profile",
+        "url": "https://music.apple.com/us/artist/mc-altaf/1398832173"
+      },
+      {
+        "label": "Halaat — Apple Music",
+        "url": "https://music.apple.com/us/album/halaat/1761526423"
+      },
+      {
+        "label": "Robin Hood — Apple Music",
+        "url": "https://music.apple.com/us/album/robin-hood-ep/1707131829"
+      }
+    ],
+    "localPath": "public/assets/artists/mc-altaf.jpg",
+    "sha256": "5c274fc03e9f073e3cfb9224f133ebc8b25d12c906c324c4c59e7dfa219f7db3",
+    "bytes": 33213,
+    "credit": "Artist profile photograph supplied on Apple Music; photographer not named on profile.",
+    "retrievedAt": "2026-09-08",
+    "processing": "JPEG normalized at 600 × 600 maximum, aspect ratio preserved; no generated or substituted imagery."
+  },
+  {
+    "artistId": "bohemia",
+    "artistName": "Bohemia",
+    "profileUrl": "https://music.apple.com/us/artist/bohemia/6616234",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/f4/91/83/f49183cb-2046-9649-24ea-177859e687a2/mza_15468271242563282787.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/bohemia/6616234",
+    "bioSources": [
+      {
+        "label": "Bohemia — Apple Music artist profile",
+        "url": "https://music.apple.com/us/artist/bohemia/6616234"
+      }
+    ],
+    "localPath": "public/assets/artists/bohemia.jpg",
+    "sha256": "bb548a37387326c1ff8b89203a885bf2215bec41d8c0e17d884b61389964ccdc",
+    "bytes": 28565,
+    "credit": "Artist profile photograph supplied on Apple Music; photographer not named on profile.",
+    "retrievedAt": "2026-09-08",
+    "processing": "JPEG normalized at 600 × 600 maximum, aspect ratio preserved; no generated or substituted imagery."
+  },
+  {
+    "artistId": "honey-singh",
+    "artistName": "Yo Yo Honey Singh",
+    "profileUrl": "https://music.apple.com/us/artist/yo-yo-honey-singh/479406160",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/22/67/5b/22675bc4-b8be-e5bf-9d83-fd0094e2c816/pr_source.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/yo-yo-honey-singh/479406160",
+    "bioSources": [
+      {
+        "label": "Yo Yo Honey Singh — Apple Music artist profile",
+        "url": "https://music.apple.com/us/artist/yo-yo-honey-singh/479406160"
+      },
+      {
+        "label": "International Villager — Apple Music",
+        "url": "https://music.apple.com/in/album/international-villager/1413202153"
+      },
+      {
+        "label": "Desi Kalakaar — Apple Music",
+        "url": "https://music.apple.com/us/album/desi-kalakaar/1158008426"
+      }
+    ],
+    "localPath": "public/assets/artists/honey-singh.jpg",
+    "sha256": "82ba8ae9667143498dec9c2958498f5e9c55cd5ff88be4e466bc985e823b3bf1",
+    "bytes": 35540,
+    "credit": "Artist profile photograph supplied on Apple Music; photographer not named on profile.",
+    "retrievedAt": "2026-09-08",
+    "processing": "JPEG normalized at 600 × 600 maximum, aspect ratio preserved; no generated or substituted imagery."
+  },
+  {
+    "artistId": "sidhu",
+    "artistName": "Sidhu Moose Wala",
+    "profileUrl": "https://music.apple.com/us/artist/sidhu-moose-wala/1257856923",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/e1/ea/cd/e1eacdff-c35f-668b-7a6a-600ba53bb8c0/pr_source.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/sidhu-moose-wala/1257856923",
+    "bioSources": [
+      {
+        "label": "Sidhu Moose Wala — Apple Music artist profile",
+        "url": "https://music.apple.com/us/artist/sidhu-moose-wala/1257856923"
+      },
+      {
+        "label": "Sidhu Moose Wala died on 29 May 2022 — The Indian Express",
+        "url": "https://indianexpress.com/article/cities/amritsar/punjabi-singer-congress-leader-sidhu-moose-wala-shot-dead-7942590/"
+      }
+    ],
+    "localPath": "public/assets/artists/sidhu.jpg",
+    "sha256": "5a5d0b79911f953ac1f2a2a6ce371abc619e6f09af100b2db8ec4eb07bc32065",
+    "bytes": 45772,
+    "credit": "Artist profile photograph supplied on Apple Music; photographer not named on profile.",
+    "retrievedAt": "2026-09-08",
+    "processing": "JPEG normalized at 600 × 600 maximum, aspect ratio preserved; no generated or substituted imagery."
+  },
+  {
+    "artistId": "karan-aujla",
+    "artistName": "Karan Aujla",
+    "profileUrl": "https://music.apple.com/us/artist/karan-aujla/914892130",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/3e/d8/f2/3ed8f2ae-dc3a-38eb-0239-eedf627b733a/ami-identity-1615217ac49eff25005362d92bbcab9e-2025-08-21T19-07-43.642Z_cropped.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/karan-aujla/914892130",
+    "bioSources": [
+      {
+        "label": "Karan Aujla — Apple Music artist profile",
+        "url": "https://music.apple.com/us/artist/karan-aujla/914892130"
+      }
+    ],
+    "localPath": "public/assets/artists/karan-aujla.jpg",
+    "sha256": "5cb92d5885c5620e1616b8d2264ab83c3bb091861fdf2092a023a5a24de1645e",
+    "bytes": 39977,
+    "credit": "Artist profile photograph supplied on Apple Music; photographer not named on profile.",
+    "retrievedAt": "2026-09-08",
+    "processing": "JPEG normalized at 600 × 600 maximum, aspect ratio preserved; no generated or substituted imagery."
+  },
+  {
+    "artistId": "shubh",
+    "artistName": "Shubh",
+    "profileUrl": "https://music.apple.com/us/artist/shubh/1585737475",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/d4/61/1d/d4611d07-e375-516a-62ab-661741c28362/ami-identity-8e8274c342e6cb0a43b3dc19be5b6096-2026-04-12T11-21-52.562Z_cropped.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/shubh/1585737475",
+    "bioSources": [
+      {
+        "label": "Shubh — Apple Music artist profile",
+        "url": "https://music.apple.com/us/artist/shubh/1585737475"
+      },
+      {
+        "label": "Still Rollin — Apple Music",
+        "url": "https://music.apple.com/us/album/still-rollin/1687649537"
+      },
+      {
+        "label": "Leo — Apple Music",
+        "url": "https://music.apple.com/us/album/leo-ep/1721323012"
+      }
+    ],
+    "localPath": "public/assets/artists/shubh.jpg",
+    "sha256": "3404b7cb79d58974615f4ac555297aac0b6fd71f047a55a127d33143ed7469fe",
+    "bytes": 41330,
+    "credit": "Artist profile photograph supplied on Apple Music; photographer not named on profile.",
+    "retrievedAt": "2026-09-08",
+    "processing": "JPEG normalized at 600 × 600 maximum, aspect ratio preserved; no generated or substituted imagery."
+  }
+]

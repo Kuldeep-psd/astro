@@ -1,7 +1,7 @@
 <script lang="ts">
   import { discSheets } from '../data/discs';
 
-  let selectedIndex = $state(0);
+  let selectedIndex = $state(Math.max(0, discSheets.findIndex(sheet => sheet.image === 'city3.jpg')));
   let isActualSize = $state(false);
   let viewer: HTMLDialogElement;
   const selected = $derived(discSheets[selectedIndex]);
@@ -13,7 +13,7 @@
   }
 </script>
 
-<section class="disc-section" id="scenes" aria-labelledby="scenes-heading">
+<section class="disc-section" id="original-scenes" aria-labelledby="scenes-heading">
   <div class="section-heading">
     <p class="eyebrow"><span>SIDE A</span> The local rotation</p>
     <div class="heading-grid">
@@ -67,12 +67,12 @@
       </button>
       <figcaption class="figure-caption">
         <p>Original disc infographics <span aria-hidden="true">·</span> {selected.scenes}</p>
-        <a href="#reading-discs">How to read the discs <span aria-hidden="true">↓</span></a>
+        <a href="#original-reading-discs">How to read the discs <span aria-hidden="true">↓</span></a>
       </figcaption>
     </figure>
   </div>
 
-  <div class="disc-guide" id="reading-discs" aria-labelledby="guide-heading">
+  <div class="disc-guide" id="original-reading-discs" aria-labelledby="guide-heading">
     <div class="guide-intro">
       <p class="eyebrow">A quick guide</p>
       <h3 id="guide-heading">Read the record.</h3>

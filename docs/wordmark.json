@@ -1,0 +1,17 @@
+{
+  "title": "Rise of HipHop",
+  "fontFamily": "Throwupz",
+  "designer": "Måns Grebäck",
+  "requestedSource": "https://www.fontspace.com/throwupz-font-f11230",
+  "downloadListing": "https://www.dafont.com/throwupz.font",
+  "fontSource": "https://dl.dafont.com/dl/?f=throwupz",
+  "fontSourceSha256": "0d25cb18210e3ebe66f1894363bdc35ad37db02271de1f1213599d63cacbacdf",
+  "license": "Personal use only; public media use and font redistribution require designer or reseller permission.",
+  "licenseFile": "docs/throwupz-license.txt",
+  "publicUsePermissionVerified": true,
+  "usage": "Public website title, published with user-confirmed permission. The font binary is not included in the website or repository.",
+  "asset": "src/lib/marks/throwupz-wordmark.ts",
+  "construction": "Exact Throwupz outlines arranged as RISE OF / HIPHOP. GlitchTitle.svelte adds clipped color offsets, hover/focus interaction and a brief looping glitch.",
+  "viewBox": "0 0 700 380",
+  "permissionBasis": "User confirmed permission to publish Throwupz in this project on 2026-09-08."
+}

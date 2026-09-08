@@ -1,0 +1,405 @@
+{
+  "editorialThesis": "A local practice travels through recordings, images and people; new communities make it speak their own lives. The reader moves from selected global milestones to a close reading of eight South Asian scenes.",
+  "mapNote": "Selected cultural connections, not a complete map of origins.",
+  "chapters": [
+    {
+      "id": "origins",
+      "stage": 0,
+      "period": "1973 · The Bronx",
+      "headline": "A neighbourhood makes a sound.",
+      "body": "On 11 August 1973, Cindy Campbell and DJ Kool Herc threw a party at 1520 Sedgwick Avenue. It became a landmark in hip-hop’s beginnings. Around the Bronx, DJs, MCs, dancers and writers built a culture from the material at hand: records, walls, words and a crowd.",
+      "sources": [
+        "smithsonian-party",
+        "smithsonian-bronx",
+        "bfi-film"
+      ]
+    },
+    {
+      "id": "across-borders",
+      "stage": 1,
+      "period": "1979–1984 · Records, film, television",
+      "headline": "The party leaves the block.",
+      "body": "The Sugarhill Gang put “Rapper’s Delight” on record in 1979. The next wave travelled through screens: Wild Style reached Tokyo with its performers in 1983; Sidney brought H.I.P. H.O.P. to French television in 1984. Records and moving images gave distant audiences a way into the culture.",
+      "sources": [
+        "loc-rappers-delight",
+        "wild-style-japan",
+        "ina-hiphop"
+      ]
+    },
+    {
+      "id": "local-voices",
+      "stage": 2,
+      "period": "1990s–2000s · New languages, new scenes",
+      "headline": "Every city changes the sound.",
+      "body": "MC Solaar released his French-language debut in 1991. In Heidelberg, Advanced Chemistry confronted racism on “Fremd im eigenen Land” in 1992. That year, Seo Taiji and Boys brought rap into Korean pop. In east London, pirate radio carried emerging grime voices. Local language, politics and musical traditions shaped what came next.",
+      "sources": [
+        "bnf-solaar",
+        "ghi-advanced-chemistry",
+        "korea-pop",
+        "vam-london"
+      ]
+    },
+    {
+      "id": "south-asia",
+      "stage": 3,
+      "period": "2000s–2010s · South Asia and its diaspora",
+      "headline": "The stories get closer to home.",
+      "body": "Bohemia’s Punjabi rap grew out of life in California. Young Stunners uploaded “Burger-E-Karachi” in 2013. In Bombay, DIVINE and Naezy’s “Mere Gully Mein” put neighbourhood life into a 2015 release. By 2019, Nas’s Mass Appeal and Universal had launched a Mumbai label with DIVINE. South Asian stories were finding new routes between local listeners and the world.",
+      "sources": [
+        "bohemia-interview",
+        "bohemia-original-interview",
+        "yunus-burger",
+        "apple-mere-gully",
+        "umg-india"
+      ]
+    },
+    {
+      "id": "collection",
+      "stage": 3,
+      "period": "A closer look · Through 2024",
+      "headline": "Eight scenes. Many ways to listen.",
+      "body": "Bombay, Punjabi, Delhi, Urdu, Pune, Goa, Amd and Koshur. Explore selected releases from 29 artists, scene by scene. Each ring follows an artist; each coloured band marks a release. Choose a band to meet the project, or compare the same dates in the release list.",
+      "sources": [
+        "local-data"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "id": "bronx",
+      "label": "The Bronx",
+      "latitude": 40.85,
+      "longitude": -73.91,
+      "year": 1973,
+      "stage": 0,
+      "event": "Cindy Campbell and Kool Herc’s Sedgwick Avenue party",
+      "sources": [
+        "smithsonian-party"
+      ],
+      "qualification": "A commemorated landmark, not a claim that one party instantly created all hip-hop practices."
+    },
+    {
+      "id": "london",
+      "label": "London",
+      "latitude": 51.51,
+      "longitude": -0.13,
+      "year": 1984,
+      "stage": 1,
+      "event": "Beat This! brings hip-hop to British television audiences",
+      "sources": [
+        "bfi-film"
+      ],
+      "qualification": "Selected media milestone; UK scenes and sound-system influences have wider histories."
+    },
+    {
+      "id": "paris",
+      "label": "Paris",
+      "latitude": 48.86,
+      "longitude": 2.35,
+      "year": 1984,
+      "stage": 1,
+      "event": "Sidney presents H.I.P. H.O.P. on TF1",
+      "sources": [
+        "ina-hiphop"
+      ],
+      "qualification": "INA’s catalogue dates its first transmission14January1984. Useyearonlyifavoidingdisputedpopular14/15Januaryaccounts."
+    },
+    {
+      "id": "tokyo",
+      "label": "Tokyo",
+      "latitude": 35.68,
+      "longitude": 139.69,
+      "year": 1983,
+      "stage": 1,
+      "event": "Wild Style release and cast tour",
+      "sources": [
+        "wild-style-japan",
+        "cornell-ahearn"
+      ],
+      "qualification": "Explicit NewYork-to-Tokyo performer tour. Not a claim that no hip-hop records previously circulated in Japan."
+    },
+    {
+      "id": "heidelberg",
+      "label": "Heidelberg",
+      "latitude": 49.4,
+      "longitude": 8.67,
+      "year": 1992,
+      "stage": 2,
+      "event": "Advanced Chemistry release Fremd im eigenen Land",
+      "sources": [
+        "ghi-advanced-chemistry",
+        "umg-heidelberg"
+      ],
+      "qualification": "Use Heidelberg, not Berlin, for this group’s specific milestone."
+    },
+    {
+      "id": "seoul",
+      "label": "Seoul",
+      "latitude": 37.57,
+      "longitude": 126.98,
+      "year": 1992,
+      "stage": 2,
+      "event": "Seo Taiji and Boys’ rap-influenced pop debut",
+      "sources": [
+        "korea-pop"
+      ],
+      "qualification": "Seoul represents the national music industry;1992 is a mainstream breakthrough, not hip-hop’s first arrival in Korea."
+    },
+    {
+      "id": "california",
+      "label": "California",
+      "latitude": 37.8,
+      "longitude": -122.27,
+      "period": "2000s",
+      "stage": 3,
+      "event": "Bohemia combines Punjabi poetry with Californian rap influences",
+      "sources": [
+        "bohemia-interview"
+      ],
+      "qualification": "Bay Area point is representative; source is a direct2009 interview hosted in an archive, supplemented by UrbanAsian2014 originalinterview. Avoid a precise first-release date as current Appleeditionis2004andoriginalreported2002."
+    },
+    {
+      "id": "punjab",
+      "label": "Punjab",
+      "latitude": 31.15,
+      "longitude": 75.34,
+      "period": "2000s–2010s",
+      "stage": 3,
+      "event": "Punjabi rap connects listeners across Punjab and the diaspora",
+      "sources": [
+        "bohemia-interview",
+        "local-data"
+      ],
+      "qualification": "Representative regional hub, not a one-country boundary or birthplacerestriction."
+    },
+    {
+      "id": "bombay",
+      "label": "Bombay",
+      "latitude": 19.08,
+      "longitude": 72.88,
+      "year": 2015,
+      "stage": 3,
+      "event": "DIVINE and Naezy release Mere Gully Mein",
+      "sources": [
+        "apple-mere-gully"
+      ],
+      "qualification": "2015 is this release date, not the start of rap in India."
+    },
+    {
+      "id": "karachi",
+      "label": "Karachi",
+      "latitude": 24.86,
+      "longitude": 67.01,
+      "stage": 3,
+      "event": "Young Stunners upload Burger-E-Karachi",
+      "sources": [
+        "yunus-burger",
+        "young-stunners-artist-profile"
+      ],
+      "qualification": "Artist upload year, not a claim that Urdu rap began in this year. Karachi is a representative hub. Do not render an inevitable Punjab-to-Bombay-to-Karachi chain.",
+      "year": 2013
+    }
+  ],
+  "routes": [
+    {
+      "from": "bronx",
+      "to": "tokyo",
+      "stage": 1,
+      "meaning": "Wild Style performer tour,1983",
+      "evidence": "wild-style-japan",
+      "strength": "Direct culturalconnection"
+    },
+    {
+      "from": "bronx",
+      "to": "paris",
+      "stage": 1,
+      "meaning": "Hip-hop media/culture reaches new audiences",
+      "evidence": "ina-hiphop",
+      "strength": "Schematic connection, not proven single route"
+    },
+    {
+      "from": "bronx",
+      "to": "london",
+      "stage": 1,
+      "meaning": "Hip-hop documentary reaches British television",
+      "evidence": "bfi-film",
+      "strength": "Schematic connection, not proven single route"
+    },
+    {
+      "from": "bronx",
+      "to": "heidelberg",
+      "stage": 2,
+      "meaning": "A local German-language hip-hop milestone",
+      "evidence": "ghi-advanced-chemistry",
+      "strength": "Schematic connection only; no direct person-to-person routeproven"
+    },
+    {
+      "from": "bronx",
+      "to": "seoul",
+      "stage": 2,
+      "meaning": "Rap in Korean pop",
+      "evidence": "korea-pop",
+      "strength": "Schematic connection only; do not route Tokyo→Seoul without evidence"
+    },
+    {
+      "from": "california",
+      "to": "punjab",
+      "stage": 3,
+      "meaning": "Punjabi rap diaspora connection",
+      "evidence": "bohemia-interview",
+      "strength": "Broad region/community connection, not a migration arrow"
+    },
+    {
+      "from": "bronx",
+      "to": "bombay",
+      "stage": 3,
+      "meaning": "NewYork/Mumbai Mass Appeal India label partnership,2019",
+      "evidence": "umg-india",
+      "strength": "Direct institutional connection; useNewYorklabelratherthanliteralSedgwickoriginifvisible"
+    },
+    {
+      "to": "karachi",
+      "stage": 3,
+      "meaning": "Schematic connection from hip-hop’s New York roots to the Karachi scene",
+      "evidence": "yunus-burger",
+      "strength": "Illustrative cultural connection only; the cited artist upload supports the Karachi milestone, not a documented New York-to-Karachi journey.",
+      "from": "bronx"
+    }
+  ],
+  "sources": [
+    {
+      "id": "smithsonian-party",
+      "label": "Smithsonian · The first hip-hop block party",
+      "url": "https://www.smithsonianmag.com/smithsonian-institution/how-the-block-party-became-an-urban-phenomenon-180980560/",
+      "supports": "Cindy Campbell and Kool Herc’s party at1520Sedgwick on11August1973; Smithsonian museum curatordiscussion."
+    },
+    {
+      "id": "smithsonian-bronx",
+      "label": "NMAAHC · Hip-Hop in the Bronx",
+      "url": "https://nmaahc.si.edu/explore/stories/hip-hop-bronx",
+      "supports": "1970sBronx community and local scene context; museum objectrecord."
+    },
+    {
+      "id": "loc-rappers-delight",
+      "label": "Library of Congress · Rapper’s Delight",
+      "url": "https://www.loc.gov/item/95786229/",
+      "supports": "Original1979SugarHill recordingcatalogue. Do not repeat incorrectchartpositions from separateLocessay."
+    },
+    {
+      "id": "wild-style-japan",
+      "label": "Wild Style · Official Japanese release site",
+      "url": "https://synca.jp/wildstyle/",
+      "supports": "1983Japanrelease,36cast/crew invited,Tokyo events,TVappearance,Shinjukuperformance; filmmakerandartistscommentary."
+    },
+    {
+      "id": "cornell-ahearn",
+      "label": "Cornell University · Charlie Ahearn archive",
+      "url": "https://rmc.library.cornell.edu/EAD/htmldocs/RMM08078.html",
+      "supports": "WildStyle1983; archivecontainsJapan/Germany1983photographsandHipHopoverTokyodocuments."
+    },
+    {
+      "id": "ina-hiphop",
+      "label": "INA · H.I.P. H.O.P.,14January1984",
+      "url": "https://catalogue.ina.fr/doc/TV-RADIO/DA_CPA84057237/hip-hop-emission-du-14-janvier-1984",
+      "supports": "Primarybroadcastrecord:TF1,14January1984,Sidneypresenting,ParisCityBreakers,Futura2000."
+    },
+    {
+      "id": "bfi-film",
+      "label": "BFI · Hip-hop on film and British television",
+      "url": "https://www.bfi.org.uk/lists/10-great-hip-hop-documentaries",
+      "supports": "1980sfilmsandhip-hop’s4elements;BeatThis!1984andBombin’1988helpedexposeUKaudiences."
+    },
+    {
+      "id": "bnf-solaar",
+      "label": "Bibliothèque nationale de France · MC Solaar debut",
+      "url": "https://catalogue.bnf.fr/ark%3A/12148/cb468380665",
+      "supports": "Originalphonographicproduction1991forQuiSèmeleventrécolteletempo;newerrecordisreissue."
+    },
+    {
+      "id": "ghi-advanced-chemistry",
+      "label": "German Historical Institute · Advanced Chemistry,1992",
+      "url": "https://germanhistorydocs.org/de/ein-neues-deutschland-1990-2023/advanced-chemistry-fremd-im-eigenen-land-1992",
+      "supports": "Primary1992recording,FremdimeigenenLand,contextualizedracismcritique."
+    },
+    {
+      "id": "umg-heidelberg",
+      "label": "Universal Music · Advanced Chemistry’s Heidelberg roots",
+      "url": "https://www.universal-music.de/beginner/musik/advanced-chemistry-348962",
+      "supports": "UniversalartistalbumcontextdescribesHeidelberginthelate1980sandAdvancedChemistry’sswitchtoGerman."
+    },
+    {
+      "id": "korea-pop",
+      "label": "Korean Culture and Information Service · K-POP:A New Force in Pop Music",
+      "url": "https://www.korea.net/koreanet/fileDownload?fileUrl=%2Fcontent%2Fpdf%2Fgeneral%2FK-POP_20111115.pdf",
+      "supports": "Printedpages62–63:SeoTaiji&Boysdebut1992;rapmixedwithothermusicalstyles,Deux1993andlate1990srapacts."
+    },
+    {
+      "id": "vam-london",
+      "label": "V&A East · East London’s lost sounds",
+      "url": "https://www.vam.ac.uk/blog/east/meet-the-artists-lost-sounds-east-london",
+      "supports": "1980s–90seastLondonsoundsystems/raves/pirateradio;DejaVuFMcarriedJammer,Ghetts,Kano;early2000sredevelopmentcontext."
+    },
+    {
+      "id": "bohemia-interview",
+      "label": "Bohemia ·2009PMRinterviewarchive",
+      "url": "https://www.thepunjabirapstar.com/2009/10/bohemia-in-exclusive-interview-with-pmr.html",
+      "supports": "Firstperson:BayAreamusician,Punjabi/Urdupoetry,Californianrapinfluence,around2002recordingscirculatedandBBCradioLondon;fan-hostedarchivecaveat."
+    },
+    {
+      "id": "bohemia-original-interview",
+      "label": "UrbanAsian · Bohemia and Juggy D interview",
+      "url": "https://urbanasian.com/whats-happenin/2014/02/exclusive-video-interview-bohemia-and-juggy-d/",
+      "supports": "Original2014interview;Oakland-basedBohemiaandSouthall-basedJuggyD;2002VichPardesanDereported."
+    },
+    {
+      "id": "apple-mere-gully",
+      "label": "Apple Music / Sony · Mere Gully Mein",
+      "url": "https://music.apple.com/us/album/mere-gully-mein-feat-naezy-single/985088872",
+      "supports": "DIVINEfeat.Naezy,16April2015,SonyMusicEntertainmentIndia;editorialdescriptionofMumbaigullies."
+    },
+    {
+      "id": "umg-india",
+      "label": "Universal Music · Mass Appeal India launch,2019",
+      "url": "https://www.universalmusic.com/mass-appeal-and-universal-music-india-to-launch-mass-appeal-india/",
+      "supports": "Mumbai/NewYork20August2019jointlabelannouncement,Nas/DIVINEconnection,MumbaiHQ,worldwideUMGdistribution. Ignorepromotionalrankingsandunqualifiedsuperlatives."
+    },
+    {
+      "id": "azadi-catalogue",
+      "label": "Azadi Records · Catalogue",
+      "url": "https://azadirecords.com/catalogue/",
+      "supports": "PrimarylabelcataloguelistsdiverseIndianlanguagesandregionalartists;currentfiltersalonearenotdatedcensusevidence."
+    },
+    {
+      "id": "apple-young-stunners",
+      "label": "Apple Music · Young Stunners",
+      "url": "https://music.apple.com/us/artist/young-stunners/1501771392",
+      "supports": "2017RebirthalbumandKarachi-referencingcatalogue,relevanttoregionallens. Furtherbirthplaceclaimsrequireartistsource."
+    },
+    {
+      "id": "local-data",
+      "label": "Project source data and collection notes",
+      "url": "/docs/scene-collection.md",
+      "supports": "Eightcuratedscenes,29artists,111distinctreleases/114laneentries,cutoff1January2025exclusive. SelectionisnotcompleteSouthAsiandiscography."
+    },
+    {
+      "id": "yunus-burger",
+      "label": "Talhah Yunus · Burger-E-Karachi on SoundCloud",
+      "url": "https://soundcloud.com/talhahyunus/burgerekarachi",
+      "supports": "The artist’s upload is timestamped 17 January 2013. Credits identify Talhah Yunus and Talha Anjum, with music, mix and master by Umair Khan. This is an upload milestone, not a claim about the first-ever performance or recording date."
+    },
+    {
+      "id": "young-stunners-artist-profile",
+      "label": "Young Stunners · Artist profile on ReverbNation",
+      "url": "https://www.reverbnation.com/youngstunnersofficial/song/18643358-young-stunners-burger-e-karachi",
+      "supports": "Self-described official artist profile names Karachi, Pakistan, and links early recordings. Do not use its group founding year: other sources conflict."
+    }
+  ],
+  "doNotCarryOver": [
+    "No claim that hip-hop is globally the biggest or dominant genre; original chart lacks usable provenance.",
+    "Do not label commercial artists inauthentic or oppose them to an authentic underground.",
+    "No colonizing one-way tree in which each country copies its predecessor; use selected connections plus independent local nodes.",
+    "No precise South Asian origin date inferred from a streaming catalog reissue; display broad eras where evidence only supports eras.",
+    "No India-only descriptor for Urdu or Punjabi diaspora scenes; use South Asia and its diaspora.",
+    "No figure purporting to count all hip-hop scenes or releases;111 is the curated collection’s unique projectcount."
+  ]
+}

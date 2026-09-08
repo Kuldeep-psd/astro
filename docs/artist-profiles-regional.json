@@ -1,0 +1,188 @@
+[
+  {
+    "artistId": "mc-stan",
+    "artistName": "MC Stan",
+    "profileUrl": "https://music.apple.com/us/artist/mc-stan/1530205305",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/21/66/ba/2166ba4b-ef75-337c-2b0d-576655c0839b/7659b960-30f3-4124-b030-17cb44281267_ami-identity-acc3bc7843bb77504f7780d4f3f9b7cb-2024-07-30T07-52-32.876Z_cropped.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/mc-stan/1530205305",
+    "bioSources": [
+      {
+        "label": "MC Stan — Apple Music artist editorial",
+        "url": "https://music.apple.com/us/artist/mc-stan/1530205305"
+      },
+      {
+        "label": "Insaan — Apple Music editorial",
+        "url": "https://music.apple.com/us/album/insaan/1610309563"
+      }
+    ],
+    "localPath": "public/assets/artists/mc-stan.jpg",
+    "sha256": "dd2309c3d24b88b059fc3af6f37415bc5c2205c2d07de51cb72dbfc38884f318",
+    "bytes": 33902,
+    "credit": "Artist portrait via Apple Music",
+    "retrievedAt": "2026-09-08"
+  },
+  {
+    "artistId": "vijay-dk",
+    "artistName": "Vijay DK",
+    "profileUrl": "https://music.apple.com/us/artist/vijay-dk/1538654885",
+    "imageSourceUrl": "https://i.scdn.co/image/ab6761610000e5eb3db26edbc9160212293a5428",
+    "imagePageUrl": "https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt",
+    "bioSources": [
+      {
+        "label": "Vijay DK — artist’s Spotify biography",
+        "url": "https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt"
+      },
+      {
+        "label": "Vijay DK — Urban Monkey artist interview",
+        "url": "https://www.urbanmonkey.com/blogs/news/vijaydk-fearlessly-spits-his-tale-of-mankhurd-in-his-new-single-narbann"
+      }
+    ],
+    "localPath": "public/assets/artists/vijay-dk.jpg",
+    "sha256": "7261db8510f493fea8dc3a5e361dcbb41477678c7e90dfa6af7e8887aab88cdd",
+    "bytes": 21613,
+    "credit": "Artist portrait via Spotify",
+    "retrievedAt": "2026-09-08"
+  },
+  {
+    "artistId": "tsumyoki",
+    "artistName": "Tsumyoki",
+    "profileUrl": "https://music.apple.com/us/artist/tsumyoki/1443943948",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/8d/cd/7e/8dcd7ed0-789f-d946-84dc-d77ed322b357/file_cropped.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/tsumyoki/1443943948",
+    "bioSources": [
+      {
+        "label": "A Message from the Moon — Apple Music editorial",
+        "url": "https://music.apple.com/us/album/a-message-from-the-moon/1687776625"
+      }
+    ],
+    "localPath": "public/assets/artists/tsumyoki.jpg",
+    "sha256": "e90099e2a0072bd716cf0f2723ea5264482e59db23fe9b73cb4353577f3d7f60",
+    "bytes": 33109,
+    "credit": "Artist portrait via Apple Music",
+    "retrievedAt": "2026-09-08"
+  },
+  {
+    "artistId": "goa-trap-culture",
+    "artistName": "Goa Trap Culture",
+    "profileUrl": "https://music.apple.com/us/artist/goa-trap-culture/1531714206",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ee/e3/72/eee37229-4de0-d1fc-56db-f12524d75c24/pr_source.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/goa-trap-culture/1531714206",
+    "bioSources": [
+      {
+        "label": "Goa Trap Culture — Apple Music artist catalog",
+        "url": "https://music.apple.com/us/artist/goa-trap-culture/1531714206"
+      },
+      {
+        "label": "A Message from the Moon — Apple Music editorial",
+        "url": "https://music.apple.com/us/album/a-message-from-the-moon/1687776625"
+      },
+      {
+        "label": "Daboij — Apple Music catalog and credits",
+        "url": "https://music.apple.com/us/album/daboij/1880990618"
+      }
+    ],
+    "localPath": "public/assets/artists/goa-trap-culture.jpg",
+    "sha256": "842bac4618a9fdd91c377b01fc056ef2223329f3565e34313c39f6e1dabc4922",
+    "bytes": 66154,
+    "credit": "Artist portrait via Apple Music",
+    "retrievedAt": "2026-09-08"
+  },
+  {
+    "artistId": "siyaahi",
+    "artistName": "Siyaahi",
+    "profileUrl": "https://music.apple.com/us/artist/siyaahi/1475741015",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/cf/bf/45/cfbf45b8-0843-9a43-904f-4957661743c5/file_cropped.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/siyaahi/1475741015",
+    "bioSources": [
+      {
+        "label": "Siyaahi — Red Bull Spotlight artist profile",
+        "url": "https://www.redbull.com/in-en/red-bull-spotlight-finalists-siyaahi"
+      }
+    ],
+    "localPath": "public/assets/artists/siyaahi.jpg",
+    "sha256": "3f2f531973c43aa81287b98744d6c72adfb8e97c989c099086da2220f7294d0a",
+    "bytes": 23264,
+    "credit": "Artist portrait via Apple Music",
+    "retrievedAt": "2026-09-08"
+  },
+  {
+    "artistId": "dhanji",
+    "artistName": "Dhanji",
+    "profileUrl": "https://music.apple.com/us/artist/dhanji/1356034033",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/58/59/d6/5859d6db-7b4b-ba8b-8d40-36ef966b178b/file_cropped.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/dhanji/1356034033",
+    "bioSources": [
+      {
+        "label": "RUAB — Apple Music editorial",
+        "url": "https://music.apple.com/my/album/ruab/1700207136"
+      },
+      {
+        "label": "Dhanji — Future of Music artist interview",
+        "url": "https://rollingstoneindia.com/future-of-music-2024/dhanji-future-of-music-2024/"
+      }
+    ],
+    "localPath": "public/assets/artists/dhanji.jpg",
+    "sha256": "d375f172319e3acb5816c0aeb0610ea1a5e411c134bc0e09d605f57413679924",
+    "bytes": 22194,
+    "credit": "Artist portrait via Apple Music",
+    "retrievedAt": "2026-09-08"
+  },
+  {
+    "artistId": "mc-kash",
+    "artistName": "MC Kash",
+    "profileUrl": "https://music.apple.com/us/artist/mc-kash/982708826",
+    "imageSourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/TM202403122.jpg",
+    "imagePageUrl": "https://commons.wikimedia.org/wiki/File:TM202403122.jpg",
+    "bioSources": [
+      {
+        "label": "Kashmir Raps — contemporary interview with MC Kash",
+        "url": "https://kashmirlife.net/kashmir-raps-1057/"
+      }
+    ],
+    "localPath": "public/assets/artists/mc-kash.jpg",
+    "sha256": "93956f327fd230773761cfec065c5b98f5269e28415af335b186db8ddab097fb",
+    "bytes": 27243,
+    "credit": "Wani Moomin / Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "changes": "Resized and JPEG-optimized, without cropping; the derivative image retains CC BY-SA 4.0.",
+    "retrievedAt": "2026-09-08"
+  },
+  {
+    "artistId": "sos",
+    "artistName": "SOS",
+    "profileUrl": "https://music.apple.com/us/artist/sos/1529252503",
+    "imageSourceUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/bb/b8/65/bbb865ac-0996-5dd0-7378-c8ff60390030/file_cropped.png/600x600bb.jpg",
+    "imagePageUrl": "https://music.apple.com/us/artist/sos/1529252503",
+    "bioSources": [
+      {
+        "label": "SOS — official Bandcamp biography and Keef notes",
+        "url": "https://straightouttasrinagar.bandcamp.com/"
+      }
+    ],
+    "localPath": "public/assets/artists/sos.jpg",
+    "sha256": "2683dddd4116b1be1362ee2bed0eff03d6db8bac8b25e646e443cc08add60bab",
+    "bytes": 35709,
+    "credit": "Artist portrait via Apple Music",
+    "retrievedAt": "2026-09-08"
+  },
+  {
+    "artistId": "ahmer",
+    "artistName": "Ahmer",
+    "profileUrl": "https://music.apple.com/us/artist/ahmer/921260135",
+    "imageSourceUrl": "https://f4.bcbits.com/img/0016775250_10.jpg",
+    "imagePageUrl": "https://ahmermusic.bandcamp.com/",
+    "bioSources": [
+      {
+        "label": "Ahmer — official Bandcamp biography and discography",
+        "url": "https://ahmermusic.bandcamp.com/"
+      }
+    ],
+    "localPath": "public/assets/artists/ahmer.jpg",
+    "sha256": "0fe2b3c9132ac869c905246cc73c5c8011ff7232ad684a30a2a94630ba2c35f8",
+    "bytes": 12581,
+    "credit": "Artist portrait via Ahmer’s official Bandcamp profile",
+    "identityNote": "Apple’s artist page includes possible namesake material, so the portrait comes from Ahmer’s official Kashmiri artist account. The linked Apple artist ID also contains the verified AZLI, Little Kid, Big Dreams and Inqalab releases.",
+    "retrievedAt": "2026-09-08"
+  }
+]

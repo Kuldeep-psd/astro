@@ -1,0 +1,54 @@
+[
+  {
+    "sceneId": "pune",
+    "image": "assets/scenes/pune.jpg",
+    "alt": "Pune skyline and the river near Koregaon Park.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skyline_of_Pune_city_as_seen_from_The_Westin_Koregaon_Park.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Skyline_of_Pune_city_as_seen_from_The_Westin_Koregaon_Park.jpg/960px-Skyline_of_Pune_city_as_seen_from_The_Westin_Koregaon_Park.jpg",
+    "author": "Randy Breese",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "bytes": 89019,
+    "sha256": "5949253995e872de51ab888747785eaea5546a55a585c3c489c0db733a90f2bd",
+    "changes": "Resized and recompressed; cropped to fit the scene card in the interface."
+  },
+  {
+    "sceneId": "goa",
+    "image": "assets/scenes/goa.jpg",
+    "alt": "Colourful houses along a street in Fontainhas, Panaji, Goa.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Streets_of_Fontainhas,_Panaji_(07).jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Streets_of_Fontainhas%2C_Panaji_%2807%29.jpg/960px-Streets_of_Fontainhas%2C_Panaji_%2807%29.jpg",
+    "author": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "bytes": 132163,
+    "sha256": "0ba7afc43a26299b863f0f781b3a70f3763b9a6ef2514e9f5e5d14c8b45fb255",
+    "changes": "Resized and recompressed; cropped to fit the scene card in the interface."
+  },
+  {
+    "sceneId": "amd",
+    "image": "assets/scenes/amd.jpg",
+    "alt": "People spending the evening beside Ahmedabad’s Sabarmati Riverfront.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Sabarmati_Riverfront,_Ahmedabad.jpg",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/View_of_Sabarmati_Riverfront%2C_Ahmedabad.jpg/960px-View_of_Sabarmati_Riverfront%2C_Ahmedabad.jpg",
+    "author": "Manjil Purohit",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "bytes": 57540,
+    "sha256": "c9853a6d5c200e98e375bf7daad54e447bf97c29d2f1f357337e17d9ff544450",
+    "changes": "Resized and recompressed; cropped to fit the scene card in the interface."
+  },
+  {
+    "sceneId": "koshur",
+    "image": "assets/scenes/koshur.jpg",
+    "alt": "The Jhelum River and the buildings of Srinagar, Kashmir.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:River_Jhelum.JPG",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/River_Jhelum.JPG/960px-River_Jhelum.JPG",
+    "author": "Dr. Basharat Alam Shah",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "bytes": 67841,
+    "sha256": "25c58470a006c1e27480a62767f2e927f3ab98dbe639cb98ae6e34ea5d7b90f4",
+    "changes": "Resized and recompressed; cropped to fit the scene card in the interface."
+  }
+]
